@@ -1,5 +1,4 @@
 import MovieScore from 'components/MovieScore';
-//import './styles.css';
 
 function MovieCard() {
   const movie = {
